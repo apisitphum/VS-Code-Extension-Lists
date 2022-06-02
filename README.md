@@ -1,6 +1,9 @@
 # VS-Code-Extension-Lists
 list of vs code extension
 
-GitKraken Boards
-
-Project Dashboard
+  GitKraken Boards
+  Git lens
+  Verison lens
+  Project Dashboard
+  Error lens
+  CSS peek
